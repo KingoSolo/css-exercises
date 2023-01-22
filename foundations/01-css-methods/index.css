@@ -1,5 +1,6 @@
 .div{ background-colour:red;
       colour:white;
       align:center;
-      font-weight:bold
+      font-weight:bold;
+      font-size:32px;
 }
